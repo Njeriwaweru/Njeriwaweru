@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Njeriwaweru
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning C, Python
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me njeriwaweru318@gmail.com
 
